@@ -1,0 +1,2 @@
+body{margin:0}#app{flex-direction:column;gap:10vh;height:100vh;width:100vw}#app,#logo{align-items:center;display:flex}#logo{flex-direction:row;gap:1em;justify-content:center;margin-top:5vh}#logo svg{aspect-ratio:1}#logo #viztexa:focus{outline:none}#options{display:flex;flex-direction:column;gap:1em}#options .option{display:flex;flex-direction:row;gap:2em}
+/*# sourceMappingURL=main.a35e6fcf.css.map*/
